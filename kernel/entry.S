@@ -17,5 +17,3 @@ _entry:
         add sp, sp, a0
         # jump to start() in start.c
         call start
-spin:
-        j spin
