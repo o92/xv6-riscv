@@ -36,5 +36,6 @@
 ### 三、加载中文文档
 - 在 xv6-riscv 根目录下执行以下命令来加载中文文档:
 ```sh
+    git submodule init
     git submodule update
 ```
